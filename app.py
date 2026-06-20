@@ -136,7 +136,7 @@ in the batch of 2026-2027.
 
 
 <p>
-I am different from many others because I have a clear goal:
+I am different from many others because I have a  goal :
 to become an officer in the Indian Army and serve my nation.
 </p>
 
