@@ -128,18 +128,22 @@ src="/static/photo.jpg">
 <h2>About Me</h2>
 
 
-<p>
-Hi everyone, I am S. Vishnu Prasath from Tamil Nadu, Tirunelveli.
-I am a Class 12 student studying at Amrita Vidyalayam, Kanyakumari
-in the batch of 2026-2027.
+<p>                                                   
+My name is S. Vishnu Prasath, and I hail from the vibrant city of Tirunelveli in Tamil Nadu. Born on September 12, 2009, I am currently a Class 12 student at Amrita Vidyalayam, Kanyakumari (Batch of 2026–2027)
 </p>
 
 
 <p>
-I am different from many others because I have a  goal :
-to become an officer in the Indian Army and serve my nation.
+I come from a supportive and hardworking family. My father, Mr. S. Selvan, is a dedicated businessman, and my mother, Mrs. S. Prabha, is the loving homemaker who keeps our lives beautifully organized.
 </p>
 
+<p>
+I grew up in a scenic village called Madanpillai Tharmam. It is a place close to my heart, not just for its beauty, but because it is where I am surrounded by a wonderful network of relatives and six gem-like friends who have been a constant source of strength and happiness in my life.
+</p>
+
+<p>
+Outside of my studies, I am passionate about sports. My absolute favorite hobby is playing basketball, which keeps me active and teaches me the value of teamwork and discipline.
+</p>
 
 </div>
 
@@ -156,7 +160,7 @@ to become an officer in the Indian Army and serve my nation.
 
 <div class="box">
 <h3>Height</h3>
-<p>190 cm</p>
+<p>190+ cm</p>
 </div>
 
 
@@ -176,7 +180,7 @@ to become an officer in the Indian Army and serve my nation.
 <h2>My Aim 🇮🇳</h2>
 
 <p>
-My dream is to become an Indian Army officer.
+AIM is to become an Indian Army officer.
 I believe in discipline, courage, dedication and service to the country.
 </p>
 
