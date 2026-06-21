@@ -247,7 +247,7 @@ Outside of my studies, I am passionate about sports. My absolute favorite hobby 
 My ultimate goal is to serve the nation as an officer in the Indian Army. I ground my daily life in the core values of discipline, courage, and selfless service, aiming to lead by example and defend the country's sovereignty.
 </p>
 
-<button type="button" class="btn-show-more">click</button>
+<button type="button" class="btn-show-more" onclick="window.open('https://www.instagram.com/_h4v0_x', '_blank')">click</button>
 
 <a href="https://www.instagram.com/_h4v0_x" target="_blank" class="button-link instagram-btn">
         Follow me on Instagram
