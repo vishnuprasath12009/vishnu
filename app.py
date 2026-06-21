@@ -67,7 +67,7 @@ h1{
 
 
 .card{
-    background:#f5f5f5;
+    background:##A9A9A9;
     padding:25px;
     margin:25px auto;
     border-radius:20px;
@@ -75,6 +75,15 @@ h1{
     box-shadow:0 5px 20px #aaa;
 }
 
+
+.ber{
+    background:#A9A9A9;
+    padding:25px;
+    margin:25px auto;
+    border-radius:20px;
+    max-width:800px;
+    box-shadow:0 5px 20px #aaa;
+}
 
 h2{
     color:#0b3d91;
@@ -99,7 +108,7 @@ h2{
 
 
 .army{
-    background:white;
+    background:#A9A9A9;
     color:black;
 }
 
@@ -129,7 +138,7 @@ src="/static/photo.jpg">
 <div class="card">
 
 
-<h2>About Me</h2>
+<h2>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
 
 
 <p>                                                   
@@ -137,13 +146,42 @@ My name is S. Vishnu Prasath, and I hail from the vibrant city of Tirunelveli in
 </p>
 
 
+</div>
+
+
+<div class="card">
+
+
+<h2>𝓕𝓪𝓶𝓲𝓵𝔂 𝓑𝓪𝓬𝓴𝓰𝓻𝓸𝓾𝓷𝓭</h2>
+
+
 <p>
 I come from a supportive and hardworking family. My father, Mr. S. Selvan, is a dedicated businessman, and my mother, Mrs. S. Prabha, is the loving homemaker who keeps our lives beautifully organized.
 </p>
 
+
+</div>
+
+
+<div class="card">
+
+
+<h2>𝓐𝓽𝓶𝓸𝓼𝓹𝓱𝓮𝓻𝓮</h2>
+
+
 <p>
 I grew up in a scenic village called Madanpillai Tharmam. It is a place close to my heart, not just for its beauty, but because it is where I am surrounded by a wonderful network of relatives and six gem-like friends who have been a constant source of strength and happiness in my life.
 </p>
+
+
+</div>
+
+
+<div class="card">
+
+
+<h2>𝓗𝓸𝓫𝓫𝓲𝓮𝓼</h2>
+
 
 <p>
 Outside of my studies, I am passionate about sports. My absolute favorite hobby is playing basketball, which keeps me active and teaches me the value of teamwork and discipline.
@@ -151,6 +189,8 @@ Outside of my studies, I am passionate about sports. My absolute favorite hobby 
 
 </div>
 
+
+<div class="ber">
 
 
 <div class="info">
@@ -171,6 +211,9 @@ Outside of my studies, I am passionate about sports. My absolute favorite hobby 
 <div class="box">
 <h3>Weight</h3>
 <p>70 kg</p>
+</div>
+
+
 </div>
 
 
