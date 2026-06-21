@@ -68,13 +68,12 @@ body{
 
 h1{
     font-family: 'Saira', sans-serif;
-    font-size:45px;
+    font-size:60px;
     color:#0b3d91;
 }
 
 
 .card{
-    font-family: 'Saira', sans-serif;
     background:##A9A9A9;
     padding:25px;
     margin:25px auto;
@@ -95,7 +94,7 @@ h1{
 
 h2 {
   font-family: 'Saira', sans-serif;
-  font-size: 28px;
+  font-size: 55px;
   color: #0b3d91;
   text-align: left;
 }
@@ -109,8 +108,8 @@ h2 {
 }
 
 p {
-    font-family: 'Georgia', serif;
-    font-size: 18px;
+    font-family: 'Saira', serif;
+    font-size: 25px;
     line-height: 1.7;
     color: #333;
     text-align: left;
@@ -150,7 +149,7 @@ p {
 src="/static/photo.jpg">
 
 
-<h1>BIO-DATA OF S.VISHNU PRASATH</h1>
+<h1>VISHNU PRASATH.S</h1>
 
 
 <div class="card">
@@ -160,7 +159,7 @@ src="/static/photo.jpg">
 
 
 <p>                                                   
-My name is S. Vishnu Prasath, and I hail from the vibrant city of Tirunelveli in Tamil Nadu. Born on September 12, 2009, I am currently a Class 12 student at Amrita Vidyalayam, Kanyakumari (Batch of 2026–2027)
+My name is S.Vishnu Prasath, and I hail from the vibrant city of Tirunelveli in Tamil Nadu. Born on September 12, 2009, I am currently a Class 12 student at Amrita Vidyalayam, Kanyakumari (Batch of 2026–2027)
 </p>
 
 
