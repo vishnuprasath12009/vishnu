@@ -67,12 +67,14 @@ body{
 
 
 h1{
+    font-family: 'Saira', sans-serif;
     font-size:45px;
     color:#0b3d91;
 }
 
 
 .card{
+    font-family: 'Saira', sans-serif;
     background:##A9A9A9;
     padding:25px;
     margin:25px auto;
@@ -92,6 +94,8 @@ h1{
 }
 
 h2 {
+  font-family: 'Saira', sans-serif;
+  font-size: 28px;
   color: #0b3d91;
   text-align: left;
 }
@@ -104,6 +108,13 @@ h2 {
     flex-wrap:wrap;
 }
 
+p {
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #333;
+    text-align: left;
+}
 
 .box{
     background:white;
