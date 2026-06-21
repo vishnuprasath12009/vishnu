@@ -99,8 +99,12 @@ h2{
 
 
 .army{
-    background:#111;
-    color:white;
+    background:white;
+    color:black;
+}
+
+.army h2{
+    color: black;
 }
 
 
