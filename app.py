@@ -11,9 +11,9 @@ def home():
 <head>
 
 
-  <link rel="preconnect" href="https://googleapis.com">
-  <link rel="preconnect" href="https://gstatic.com" crossorigin>
-  <link href="https://googleapis.com/css2?family=Saira:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;700&display=swap" rel="stylesheet">
 
 
 <title>BIODATA OF S.VISHNU PRASATH</title>
@@ -27,6 +27,9 @@ body{
     color:#222;
 }
 
+h1, h2, h3, p, button, a {
+    font-family: inherit;
+}
 
 .container{
     width:80%;
@@ -67,8 +70,7 @@ body{
 
 
 h1{
-    font-family: 'Saira', sans-serif;
-    font-size:60px;
+    font-size:55px;
     color:#0b3d91;
 }
 
@@ -93,8 +95,7 @@ h1{
 }
 
 h2 {
-  font-family: 'Saira', sans-serif;
-  font-size: 55px;
+  font-size: 40px;
   color: #0b3d91;
   text-align: left;
 }
@@ -108,7 +109,6 @@ h2 {
 }
 
 p {
-    font-family: 'Saira', serif;
     font-size: 25px;
     line-height: 1.7;
     color: #333;
