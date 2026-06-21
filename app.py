@@ -85,8 +85,9 @@ h1{
     box-shadow:0 5px 20px #aaa;
 }
 
-h2{
-    color:#0b3d91;
+h2 {
+  color: #0b3d91;
+  text-align: left;
 }
 
 
