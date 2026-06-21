@@ -10,7 +10,7 @@ def home():
 
 <head>
 
-<title>Biodata of Vishnu Prasath</title>
+<title>BIODATA OF S.VISHNU PRASATH</title>
 
 <style>
 
@@ -123,7 +123,7 @@ h2{
 src="/static/photo.jpg">
 
 
-<h1>BIODATA OF VISHNU PRASATH</h1>
+<h1>𝓑𝓘𝓞 𝓓𝓐𝓣𝓐 𝓞𝓕 𝓢.𝓥𝓘𝓢𝓗𝓝𝓤 𝓟𝓡𝓐𝓢𝓐𝓣𝓗</h1>
 
 
 <div class="card">
@@ -184,10 +184,14 @@ Outside of my studies, I am passionate about sports. My absolute favorite hobby 
 <h2>My Aim 🇮🇳</h2>
 
 <p>
-AIM is to become an Indian Army officer.
-I believe in discipline, courage, dedication and service to the country.
+My ultimate goal is to serve the nation as an officer in the Indian Army. I ground my daily life in the core values of discipline, courage, and selfless service, aiming to lead by example and defend the country's sovereignty.
 </p>
 
+<button type="button" class="btn-show-more">click</button>
+
+<a href="https://www.instagram.com/_h4v0_x" target="_blank" class="button-link instagram-btn">
+        Follow me on Instagram
+    </a>
 
 </div>
 
