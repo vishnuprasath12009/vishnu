@@ -10,6 +10,12 @@ def home():
 
 <head>
 
+
+  <link rel="preconnect" href="https://googleapis.com">
+  <link rel="preconnect" href="https://gstatic.com" crossorigin>
+  <link href="https://googleapis.com/css2?family=Saira:wght@400;700&display=swap" rel="stylesheet">
+
+
 <title>BIODATA OF S.VISHNU PRASATH</title>
 
 <style>
@@ -17,7 +23,7 @@ def home():
 body{
     margin:0;
     background:white;
-    font-family:Arial, sans-serif;
+    font-family: 'Saira', sans-serif;
     color:#222;
 }
 
@@ -133,13 +139,13 @@ h2 {
 src="/static/photo.jpg">
 
 
-<h1>𝓑𝓘𝓞 𝓓𝓐𝓣𝓐 𝓞𝓕 𝓢.𝓥𝓘𝓢𝓗𝓝𝓤 𝓟𝓡𝓐𝓢𝓐𝓣𝓗</h1>
+<h1>BIO-DATA OF S.VISHNU PRASATH</h1>
 
 
 <div class="card">
 
 
-<h2>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
+<h2>About Me</h2>
 
 
 <p>                                                   
@@ -153,7 +159,7 @@ My name is S. Vishnu Prasath, and I hail from the vibrant city of Tirunelveli in
 <div class="card">
 
 
-<h2>𝓕𝓪𝓶𝓲𝓵𝔂 𝓑𝓪𝓬𝓴𝓰𝓻𝓸𝓾𝓷𝓭</h2>
+<h2>Family Background</h2>
 
 
 <p>
@@ -167,7 +173,7 @@ I come from a supportive and hardworking family. My father, Mr. S. Selvan, is a 
 <div class="card">
 
 
-<h2>𝓐𝓽𝓶𝓸𝓼𝓹𝓱𝓮𝓻𝓮</h2>
+<h2>Early Life</h2>
 
 
 <p>
@@ -181,7 +187,7 @@ I grew up in a scenic village called Madanpillai Tharmam. It is a place close to
 <div class="card">
 
 
-<h2>𝓗𝓸𝓫𝓫𝓲𝓮𝓼</h2>
+<h2>Hobbies</h2>
 
 
 <p>
