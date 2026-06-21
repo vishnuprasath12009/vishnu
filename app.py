@@ -13,10 +13,35 @@ def home():
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;700&display=swap" rel="stylesheet">
 
+        <link rel="canonical" href="https://vishnuprasath.com/">
+        <meta name="description" content="Personal biodata of S. Vishnu Prasath — student and aspiring Indian Army officer.">
+        <meta name="keywords" content="Vishnu Prasath, vishnuprasath, biodata, Indian Army, Amrita Vidyalayam">
+        <meta name="author" content="S. Vishnu Prasath">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>BIODATA OF S.VISHNU PRASATH</title>
+        <meta property="og:title" content="VISHNU PRASATH.S">
+        <meta property="og:description" content="Personal biodata of S. Vishnu Prasath — aspiring Indian Army officer.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://vishnuprasath.com/">
+        <meta property="og:image" content="https://vishnuprasath.com/static/photo.jpg">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="VISHNU PRASATH.S">
+        <meta name="twitter:description" content="Personal biodata of S. Vishnu Prasath — aspiring Indian Army officer.">
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "S. Vishnu Prasath",
+            "url": "https://vishnuprasath.com/",
+            "sameAs": ["https://www.instagram.com/_h4v0_x"]
+        }
+        </script>
+
+<title>VISHNU PRASATH.S</title>
 
 <style>
 
