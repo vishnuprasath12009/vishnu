@@ -95,7 +95,7 @@ h1, h2, h3, p, button, a {
 
 
 h1{
-    font-size:55px;
+    font-size:50px;
     color:#0b3d91;
 }
 
@@ -146,6 +146,7 @@ p {
     border-radius:15px;
     width:200px;
     box-shadow:0 3px 10px #bbb;
+    text-align: left;
 }
 
 
