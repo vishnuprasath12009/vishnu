@@ -101,7 +101,7 @@ h1{
 
 
 .card{
-    background:##A9A9A9;
+    background:#A9A9A9;
     padding:25px;
     margin:25px auto;
     border-radius:20px;
@@ -273,11 +273,19 @@ Outside of my studies, I am passionate about sports. My absolute favorite hobby 
 My ultimate goal is to serve the nation as an officer in the Indian Army. I ground my daily life in the core values of discipline, courage, and selfless service, aiming to lead by example and defend the country's sovereignty.
 </p>
 
-<button type="button" class="btn-show-more" onclick="window.open('https://www.instagram.com/_h4v0_x', '_blank')">click</button>
-
-<a href="https://www.instagram.com/_h4v0_x" target="_blank" class="button-link instagram-btn">
-        Follow me on Instagram
-    </a>
+<a href="https://www.instagram.com/_h4v0_x"
+   target="_blank"
+   style="
+       display:inline-block;
+       background:#E1306C;
+       color:white;
+       padding:12px 20px;
+       border-radius:10px;
+       text-decoration:none;
+       margin-top:20px;
+   ">
+   Follow me on Instagram
+</a>
 
 </div>
 
@@ -291,4 +299,5 @@ My ultimate goal is to serve the nation as an officer in the Indian Army. I grou
 """
 
 
-app.run(host="0.0.0.0", port=5000, debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
