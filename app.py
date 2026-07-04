@@ -101,7 +101,7 @@ h1{
 
 
 .card{
-    background:#A9A9A9;
+    background:white;
     padding:25px;
     margin:25px auto;
     border-radius:20px;
@@ -111,7 +111,7 @@ h1{
 
 
 .ber{
-    background:#A9A9A9;
+    background:white;
     padding:25px;
     margin:25px auto;
     border-radius:20px;
@@ -120,7 +120,7 @@ h1{
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 24px;
   color: #0b3d91;
   text-align: left;
 }
@@ -134,7 +134,7 @@ h2 {
 }
 
 p {
-    font-size: 25px;
+    font-size: 18px;
     line-height: 1.7;
     color: #333;
     text-align: left;
@@ -152,11 +152,10 @@ p {
 
 .army{
     background:#A9A9A9;
-    color:black;
 }
 
-.army h2{
-    color: black;
+.army h2 {
+    color: #0b3d91;
 }
 
 
@@ -171,11 +170,13 @@ p {
 <div class="container">
 
 
+<div style="display:flex; justify-content:center; align-items:center;">
 <img class="profile"
 src="/static/photo.jpg">
+</div>
 
 
-<h1>VISHNU PRASATH.S</h1>
+<h1 style="text-align:center;">VISHNU PRASATH.S</h1>
 
 
 <div class="card">
@@ -264,7 +265,7 @@ Outside of my studies, I am passionate about sports. My absolute favorite hobby 
 
 
 
-<div class="card army">
+<div class="card">
 
 
 <h2>My Aim 🇮🇳</h2>
